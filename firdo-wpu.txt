@@ -3,3 +3,4 @@ wpu resolusi
 - saya ingin lebih mendalami github
 - membuat form diskusi agar semakin mengerti github
 - lebih niat lagi
+- firdo bot
